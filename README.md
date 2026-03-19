@@ -305,7 +305,7 @@ python saas_analytics_eda.py
 ## Author
 
 **Pratiksha Dandriyal**
-Data Analyst
+| Data Analyst
 [LinkedIn](https://linkedin.com/in/pratikshadandriyal) | [GitHub](https://github.com/pratikshadandriyal)
 
 
