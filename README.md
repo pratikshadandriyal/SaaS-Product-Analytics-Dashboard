@@ -47,7 +47,7 @@ Synthetic dataset generated using Python with realistic dirty data issues:
 | feature_usage | 14,996 | Feature interaction logs per user |
 | subscriptions | 5,000 | Subscription status, MRR, churn flag |
 
-**Intentional data quality issues introduced:**
+**Data quality issues :**
 - Mixed date formats (YYYY-MM-DD, MM/DD/YYYY, DD-MM-YYYY)
 - Inconsistent plan_type casing (free, Free, FREE, paid, Paid, PAID)
 - NULL values in 5–8% of key columns
