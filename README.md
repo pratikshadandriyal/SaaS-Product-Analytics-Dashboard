@@ -208,7 +208,6 @@ WHERE session_id NOT IN (
     GROUP BY user_id, date, device_type
 );
 ```
-
 ---
 
 ## DAX Highlights
