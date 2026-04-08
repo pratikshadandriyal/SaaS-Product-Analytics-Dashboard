@@ -35,7 +35,6 @@ for name, df in [('USERS', users), ('SESSIONS', sessions),
     print(f"Columns: {list(df.columns)}")
     print(f"NULL counts:\n{df.isnull().sum()}")
 
-
 # ============================================================
 # EDA STEP 1 -- Plan Type Distribution
 # ============================================================
