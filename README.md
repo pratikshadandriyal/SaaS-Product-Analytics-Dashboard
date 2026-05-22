@@ -1,6 +1,11 @@
 # SaaS Product Analytics Dashboard
 
 **End-to-end product analytics solution built with SQL Server, Power BI, and Python**
+## 🔗 Live Dashboard
+
+**[View Interactive Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiZDI3NDdkYmEtYzVlMi00OWY3LWE4OGItZDc2MTdiYzM0ZTg4IiwidCI6IjgxNzlhMDY3LTM5NGYtNDI2ZS05M2RhLTMzZmM4MjJmYTgxNSJ9&pageName=8486aca82e4a8c85e571)**
+
+*Published via Power BI Service — no login required, fully interactive*
 
 ![Dashboard Preview](screenshots/page1_executive_overview.png)
 
@@ -326,6 +331,9 @@ python saas_analytics_eda.py
 4. Recreate star schema in Model view — connect all tables to users via user_id
 5. Create _Measures table via Enter Data → build DAX measures as documented above
 
+**Or view instantly without any setup:**  
+[Live Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZDI3NDdkYmEtYzVlMi00OWY3LWE4OGItZDc2MTdiYzM0ZTg4IiwidCI6IjgxNzlhMDY3LTM5NGYtNDI2ZS05M2RhLTMzZmM4MjJmYTgxNSJ9&pageName=8486aca82e4a8c85e571)
+
 ---
 
 ## Why This Project
@@ -351,5 +359,4 @@ Built as part of an independent data analytics portfolio to demonstrate end-to-e
 ## Other Projects
 
 - [Helpdesk Performance & SLA Analytics](https://github.com/pratikshadandriyal/Helpdesk-Performance-SLA-Analytics) — SQL Server + Power BI, 8,000+ tickets, 26 months of IT operations data, SLA breach analysis
-- [Banking Analytics Dashboard](https://github.com/pratikshadandriyal/Banking-Analytics-PowerBI) — SQL Server + Power BI, 10,000+ transactions, 11 KPIs
 - [AI Job Displacement Dashboard](https://github.com/pratikshadandriyal/AI-Job-Displacement-Dashboard) — Power BI, 13,700+ job records across 9 countries
