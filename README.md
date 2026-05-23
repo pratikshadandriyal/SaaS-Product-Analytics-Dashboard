@@ -359,4 +359,4 @@ Built as part of an independent data analytics portfolio to demonstrate end-to-e
 ## Other Projects
 
 - [Helpdesk Performance & SLA Analytics](https://github.com/pratikshadandriyal/Helpdesk-Performance-SLA-Analytics) — SQL Server + Power BI, 8,000+ tickets, 26 months of IT operations data, SLA breach analysis
-- [AI Job Displacement Dashboard](https://github.com/pratikshadandriyal/AI-Job-Displacement-Dashboard) — Power BI, 13,700+ job records across 9 countries
+- [AI Job Displacement Dashboard](https://github.com/pratikshadandriyal/AI-Job-Displacement-Reskilling-Dashboard) — Power BI, 13,700+ job records across 9 countries
